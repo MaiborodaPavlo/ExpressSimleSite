@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "name": "квартира",
+      "price": "rer",
+      "src": "/upload/apartment-2558277.jpg"
+    },
+    {
+      "name": "квартира2",
+      "price": "50000",
+      "src": "/upload/apartment-2094666.jpg"
+    }
+  ],
+  "user": {
+    "login": "admin@adm.in",
+    "hash": "1652899706a1b2cc9f0e3e2c5e2305f7a405f5b829447513f7abcc4b240b31d44ab697218c033d3dce5dca605b3e40a57c6b89e94198c173126f52ad60472f75b592d506ea58d775b69b0c75c94c6b8cf7bc4793f490b083f35d7a8bf262c52e919880b220ab40d3482437dadf9d9abde860cd0080e445ec2b0bfb6de854b78650b2553045814f84bfd9d1a121cfc00069773d1f813d28bebe13df3fdd8244153db7fb1fd97be8e7d576dbc2c0ca3c14ae7f0f87dd3df8289904b346998aac4d373e14c08a85051931f736faccd7af42cd7229030581246dff99c27428a2fa900fc679d872f5518686e490bf04c1ed17ae98c02a97e9b289c50fc8ea350b40d3c35e532d4a79c4d666197d533b5d1c4f3b5dd66d742d201723d8fe33992da0fd7ccabf87cba3e1b3eb38d004b5c58a0db7753b52f791075c5d7eb330b03507edb427e11645740611f365eb9eb03659a788fd3f9e59f3f9c288465752ab70c9142571acc6514e64f7af01080040b9ba3513cf83dac5de02e1ff00c6d58e142cab84e2c395e56aea94b553073edbb734964c6f10c378811f497dd993c11aa38cf61dfa302040659fd323ca85ae81a00b89f0d868735c0429d463a86dcacfc1a5b86bab005359fc0d918251b39097759bbe6a1e0c09ccac7dc4193350c8d59e4cf3c50a3802de4205b5c1dea40246f8bc16d3cb13ae3cf5221e5d321ce85d3f9137",
+    "salt": "ed978ceaf35ac97cc57f48ec3b45585d"
+  },
+  "skills": {
+    "age": {
+      "number": "1",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    "concerts": {
+      "number": "1",
+      "text": "Концертов отыграл"
+    },
+    "cities": {
+      "number": "1",
+      "text": "Максимальное число городов в туре"
+    },
+    "years": {
+      "number": "1",
+      "text": "Лет на сцене в качестве скрипача"
+    }
+  }
+}
